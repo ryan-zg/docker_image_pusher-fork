@@ -1,5 +1,7 @@
 # apache/rocketmq:5.3.1
 # styletang/rocketmq-console-ng:latest
 # mongodb/mongodb-community-server:7.0.14-ubi8
-mongo:latest
+# mongo:latest
+oraclelinux:9
+
 
