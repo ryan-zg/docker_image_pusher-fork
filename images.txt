@@ -3,6 +3,7 @@
 # mongodb/mongodb-community-server:7.0.14-ubi8
 # mongo:latest
 # oraclelinux:9
-mysql:5.6.31
+# mysql:5.6.31
+openjdk:11.0.16-jre-buster
 
 
