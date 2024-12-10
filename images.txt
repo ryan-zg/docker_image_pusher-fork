@@ -7,6 +7,8 @@
 mysql:8.0.33
 # openjdk:11.0.16-jre-buster
 # minio/minio:latest
-mongo:4.4.3
+# mongo:4.4.3
+silsuer/yapi:latest
+
 
 
