@@ -9,7 +9,9 @@ mysql:8.0.33
 # minio/minio:latest
 # mongo:4.4.3
 # silsuer/yapi:latest
-yapipro/yapi:1.9.5
+# yapipro/yapi:1.9.5
+nacos/nacos-server:latest
+
 
 
 
